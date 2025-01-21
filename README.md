@@ -44,7 +44,7 @@ Este projeto é uma aplicação web interativa desenvolvida com Flask e Flask-So
 ### Executando o Projeto
 1. Inicie o servidor Flask:
    ```bash
-   python app.py
+   python3 -m flask run
    ```
 2. Acesse a aplicação em seu navegador no endereço:
    ```
