@@ -38,7 +38,7 @@ Este projeto é uma aplicação web interativa desenvolvida com Flask e Flask-So
    ```
 3. Instale as dependências:
    ```bash
-   pip install flask flask-socketio
+   pip install -r requirements.txt
    ```
 
 ### Executando o Projeto
