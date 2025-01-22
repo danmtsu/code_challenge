@@ -1,7 +1,4 @@
-# code_challenge
-
-
-# Projeto: Code Challenger
+# Projeto para PS scClouds
 
 ## Descrição
 Este projeto é uma aplicação web interativa desenvolvida com Flask e Flask-SocketIO, que oferece funções matemáticas como cálculo de números de Fibonacci e números primos, utilizando abordagens lineares e recursivas. A aplicação inclui uma interface gráfica simples em HTML e JavaScript, permitindo a interação do usuário através de um chat.
